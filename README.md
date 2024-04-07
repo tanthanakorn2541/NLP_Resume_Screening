@@ -38,7 +38,3 @@ The project structure is as follows:
 
 1. Install the required dependencies using `pip install -r requirements.txt`.
 2. Run the Main.ipynb notebook to preprocess the data, train the model, and perform predictions.
-
-## Contact
-
-For any inquiries or issues, please contact [Your Name] at [Your Email Address].
